@@ -1,5 +1,8 @@
 # The Knowledge Graph Conference 2023
 
+# Author
+- [Douglas Moore](https://www.linkedin.com/in/systemsdevelopment/)
+
 # Links
 - [Blog](https://www.databricks.com/blog/2023/01/26/building-life-sciences-knowledge-graph-data-lake.html)
 - [Solution Accelerator](https://github.com/databricks-industry-solutions/wscb-kg)
